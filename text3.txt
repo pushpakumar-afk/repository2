@@ -1,0 +1,1 @@
+text3.txt file is crested in githun and tha is viwed by the visual studio
